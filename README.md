@@ -12,7 +12,7 @@ Initial setups:
 
 1\. Create a virtual environment: python -m venv venv
 
-2\. Activate the virtual environment: .\\.venv\\Scripts\\Activate.ps1
+2\. Activate the virtual environment: .\venv\Scripts\Activate.ps1
 
 3\. Install python packages: pip install pandas polars pyarrow scikit-learn streamlit  matplotlib seaborn
 

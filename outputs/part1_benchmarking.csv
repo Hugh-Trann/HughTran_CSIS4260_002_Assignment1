@@ -1,0 +1,7 @@
+format,scale,compression,path,write_time_sec,size_bytes,read_time_sec
+csv,1x,none,data/all_stocks_5yr.csv,0.0,30098860,0.3714073999944958
+csv,10x,none,temp_folder\csv_10x,0.2080050000004121,300988600,3.6458497999992687
+csv,100x,none,temp_folder\csv_100x,4.97871870000381,3009886000,34.31652380000014
+parquet,1x,snappy,temp_folder\data_1x_snappy.parquet,2.985553999998956,10521335,4.89756320000015
+parquet,10x,snappy,temp_folder\parquet_10x,0.047030500005348586,105213350,0.6519639999969513
+parquet,100x,snappy,temp_folder\parquet_100x,2.08991750000132,1052133500,8.758656899997732
